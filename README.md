@@ -1,2 +1,3 @@
 # The-Knights
-Working rep
+Working rep \n
+Follow Assets -> Scripts Folder to see the Code section
